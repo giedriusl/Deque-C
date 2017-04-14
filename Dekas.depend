@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1488217491 source:c:\users\giedr\desktop\c ps\dekas\dekas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1488467491 source:c:\users\giedr\desktop\c ps\dekas\dekas\func.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1488468959 c:\users\giedr\desktop\c ps\dekas\dekas\func.h
+
+1489129188 source:c:\users\giedr\desktop\dekas\dekas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1489129188 source:c:\users\giedr\desktop\dekas\dekas\deque.c
+	<stdio.h>
+	<stdlib.h>
+	"deque.h"
+	<assert.h>
+	<stdbool.h>
+
+1489133435 c:\users\giedr\desktop\dekas\dekas\deque.h
+	<stdbool.h>
+
